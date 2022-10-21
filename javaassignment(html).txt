@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web-Site</title>
+    <link rel="stylesheet" href="./style.css">
+    <script src="https://kit.fontawesome.com/ffb5df5ddd.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <header>
+        <div class="logo" >
+            <img src="https://cdn.dribbble.com/userupload/3158902/file/original-7c71bfa677e61dea61bc2acd59158d32.jpg?resize=400x0" alt="Website Logo">
+        </div>
+
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">Product</a>
+            <a href="#">Comapany</a>
+            <a href="#">Contacts</a>
+            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+        </nav>
+
+        <div class="header-img">
+            Header Image
+        </div>
+    </header>
+    <div class="container">
+        <div class="container-1">
+            <h3>
+                About
+            </h3>
+            <p>
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Numquam ab ex, tenetur nisi adipisci odio! Ipsam modi dolores consectetur, magnam aliquam tenetur voluptatibus possimus aperiam fuga repellat officiis libero. Suscipit?Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta temporibus architecto illo officia eum blanditiis pariatur quod delectus, fugit ipsam eius nostrum nesciunt! Rerum velit fugit iusto laborum, harum in.
+            </p>
+        </div>
+        <div class="container-1">
+            <h3>
+                Comapany
+            </h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem, error sed asperiores laboriosam exercitationem ducimus. Ex perspiciatis alias deleniti, aperiam error exercitationem consequuntur. Fuga voluptatem quis alias assumenda nobis, totam repudiandae maxime! Quas, porro facere consequatur dolorem nostrum doloribus, dolore, ipsam aut officia illo fugit dolor. Soluta modi ratione excepturi.
+            </p>
+        </div>
+        <div class="container-1">
+            <h3>
+                Services
+            </h3>
+            <p>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusantium velit excepturi reprehenderit delectus! Assumenda minima at porro voluptatum, omnis in! Facilis doloribus libero earum fugiat id ipsum quod, voluptatum necessitatibus?Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius doloribus doloremque, aperiam magnam dolore earum, ad dolorem consequatur quidem iusto quasi alias tempore repudiandae
+            </p>
+        </div>
+    </div>
+
+    <div class="column">
+
+
+            <div class="container-2">
+                <h1>Content</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Maiores debitis, aperiam mollitia doloremque, minus sed illo, nobis nemo cupiditate sunt sit. Delectus omnis cum aliquam amet incidunt magni quia consequatur. Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum cupiditate quo fuga minima esse? Ut placeat temporibus dolores nobis a cumque explicabo deleniti, exercitationem suscipit, aut eum beatae debitis mollitia!</p>
+
+                <h2>Sub Header</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta minus aliquam sed voluptas iste tempore sunt, velit illum itaque nostrum saepe atque! Nisi quisquam ab dolores molestias, mollitia magni harum! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia doloremque delectus illum porro ratione maxime, cum alias sit rerum vel, maiores temporibus ipsum debitis vitae ullam corrupti fugit animi molestiae.</p>
+            </div>
+
+            <nav>
+                    <h2>
+                        Navigation
+                    </h2>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropbtn">Product</a>
+                        <div class="dropdown-content">
+                          <a href="#">Product 1</a>
+                          <a href="#">Product 2</a>
+                          <a href="#">Product 3</a>
+                        </div>
+                      </li>
+                      <li class="dropdown">
+                        <a href="#" class="dropbtn">Comapny</a>
+                        <div class="dropdown-content">
+                          <a href="#">Comapny 1</a>
+                          <a href="#">Comapny 2</a>
+                          <a href="#">Comapny 3</a>
+                        </div>
+                      </li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+
+            </nav>
+    </div>
+
+    <div class="photo">
+        <h1>Gallery</h1>
+        <div class ="color-red width">
+                Gallery Image
+        </div>
+        <div class ="color-green width">
+                Gallery Image
+        </div>
+        <div class ="color-blue width">
+                Gallery Image
+        </div>
+        <div class ="color-yellow width">
+                Gallery Image
+        </div>
+    </div>
+    <footer>
+        <div class="copyright">copyright <i class="fa-solid fa-copyright"></i> 2022</div>
+        <div class="by">Designed By - Debabrat Ranjan</div>
+    </footer>
+</body>
+</html>
